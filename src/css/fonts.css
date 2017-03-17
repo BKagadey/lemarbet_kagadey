@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'Berlin Sans FB';
+	src: url('../fonts/Berlin/BerlinSansFB-Reg.eot');
+	src: url('../fonts/Berlin/BerlinSansFB-Reg.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Berlin/BerlinSansFB-Reg.woff') format('woff'),
+		url('../fonts/Berlin/BerlinSansFB-Reg.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lucida Grande';
+	src: url('../fonts/Lucida_Grande/LucidaGrande.eot');
+	src: url('../fonts/Lucida_Grande/LucidaGrande.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Lucida_Grande/LucidaGrande.woff') format('woff'),
+		url('../fonts/Lucida_Grande/LucidaGrande.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Rockwell';
+	src: url('../fonts/Rockwell/RockwellBold.eot');
+	src: url('../fonts/Rockwell/RockwellBold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Rockwell/RockwellBold.woff') format('woff'),
+		url('../fonts/Rockwell/RockwellBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Myriad Pro';
+	src: url('../fonts/Myriad/MyriadPro-Regular.eot');
+	src: url('../fonts/Myriad/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Myriad/MyriadPro-Regular.woff') format('woff'),
+		url('../fonts/Myriad/MyriadPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VAL';
+	src: url('../fonts/Val/VAL.eot');
+	src: url('../fonts/Val/VAL.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Val/VAL.woff') format('woff'),
+		url('../fonts/Val/VAL.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
